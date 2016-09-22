@@ -1,0 +1,29 @@
+Present: 
+Eli
+Renee
+George
+Jasper
+Tu
+Rishi
+
+Will's ANN/GANN Paper
+	Waiting on code from Will
+
+Acquiring and using stems, full songs, etc
+	If we can't acquire the stems, how do we extract the information?
+	Reverb in datasets & normalization to extra stems from music
+	*** MiDi dataset as proof of concept - run w/MiDi dataset
+
+Tensorflow - install & setup
+	60 stems into spectograms
+	http://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.spectrogram.html
+
+Mix some dank beats: TBD
+	Audacity
+
+Extract instruments in music
+
+TODO:
+Spectrograms
+Determine mixing tool [audacity?]
+MiDi to mp3 script to create test dataset
